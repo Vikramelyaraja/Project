@@ -1,0 +1,159 @@
+.App {
+  text-align:center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(248, 252, 248);
+  width:500px;
+  height: 400px;
+  margin-left:500px;
+  margin-top: 20px;
+  flex-direction: row;
+  align-items: center;
+  
+}
+
+.Apps {
+  text-align:center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(248, 252, 248);
+  width:500px;
+  height: 400px;
+  margin-left:500px;
+  margin-top: 20px;
+  flex-direction: row;
+  align-items: center;
+  
+}
+.home{
+  text-align: center;
+  flex:1;
+  align-items:center;
+  justify-content: center;
+  background-color:rgb(103, 212, 103);
+  width:500px;
+  height: 100px;
+  margin-left:500px;
+  margin-top: 20px;
+}
+.blog{
+  text-align: center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(152, 194, 219);
+  width:500px;
+  height: 100px;
+  margin-left:500px;
+  margin-top: 20px;
+}
+.contact{
+  text-align: center;
+  flex:1;
+  height: 100px;
+  justify-content: center;
+  background-color:rgb(221, 101, 161);
+  width:500px;
+  margin-left:500px;
+  margin-top: 20px;
+}
+.App1{
+  text-align: center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(108, 211, 108);
+  width:70px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left:400px;
+  flex-direction:row;
+}
+.App2{
+  text-align: center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(131, 216, 231);
+  width:70px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left:400px;
+  flex-direction:row;
+}
+.App3{
+  text-align: center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(236, 113, 230);
+  width:70px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left:400px;
+  flex-direction:row;
+}
+.layout{
+  height:100px;
+  width: 100px;
+  background-color:rgb(255, 255, 255);
+
+}
+.b1{
+  flex-direction: row;
+ 
+  width: 500px;
+
+  background-color: rgba(212, 233, 233, 0.507);
+}
+.button{
+  height: 30px;
+  width: 100px;
+  margin-top:20px;
+  margin-bottom:20px;
+  background-color:rgb(153, 0, 255);
+}
+
+.button1{
+  height: 30px;
+  width: 100px;
+  margin-bottom:20px;
+  margin-left: 20px;
+  background-color:rgb(153, 0, 255);
+}
+.button2{
+  height: 30px;
+  width: 100px;
+  margin-bottom:20px;
+  background-color:rgb(255, 0, 0);
+}
+.button3{
+  height: 30px;
+  width: 100px;
+  margin-left: 50px;
+  margin-bottom:20px;
+  background-color:rgb(0, 255, 42);
+}
+.button4{
+  height: 30px;
+  width: 120px;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom:20px;
+  background-color:rgb(0, 217, 255);
+}
+.button5{
+  height: 30px;
+  width: 120px;
+  margin-left: 50px;
+  margin-bottom:20px;
+  margin-top: 20px;
+  background-color:rgb(0, 247, 255);
+}
+.text1{
+  height: 30px;
+  width: 200px;
+  margin-top:20px;
+}
+
+.text2{
+  height: 30px;
+  width: 200px;
+  margin-top:20px;
+}
